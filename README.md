@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @GoldenBaozi
 - 👀 I’m interested in playing computer games and watching Japanese Animation
-- 🌱 I’m currently learning C++ and Python, and data science
-- 📫 How to reach me: Email 2020200779@ruc.edu.cn       Wechat: jingcheng879795007
+- 🌱 I’m currently learning Python, Econ and data science
+- 📫 How to reach me:
+  - Email: golden.baozi123@gmail.com
+  - Wechat: Golden_Baozi
 
 <!---
 GoldenBaozi/GoldenBaozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
