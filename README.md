@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoldenBaozi
 - 👀 I’m interested in playing computer games and watching Japanese Animation
-- 🌱 I’m currently learning Python, Econ and data science
+- 🌱 I’m currently learning Macroeconomics and computation methods
 - 📫 How to reach me:
   - Email: golden.baozi123@gmail.com
   - Wechat: Golden_Baozi
