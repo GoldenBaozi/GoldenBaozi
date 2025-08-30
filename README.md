@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GoldenBaozi
+- 👋 Hi, I’m Jincheng
 - 👀 I’m interested in playing computer games and watching Japanese Animation
-- 🌱 I’m currently learning Macroeconomics and computation methods
+- 🌱 I’m currently learning Macroeconomics, statistics and computation methods
 - 📫 How to reach me:
   - Email: golden.baozi123@gmail.com
   - Wechat: Golden_Baozi
