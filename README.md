@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Macroeconomics, statistics and computation methods
 - 📫 How to reach me:
   - Email: golden.baozi123@gmail.com
-  - Wechat: Golden_Baozi
 
 <!---
 GoldenBaozi/GoldenBaozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
